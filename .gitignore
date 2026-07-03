@@ -1,4 +1,26 @@
+# ─── AI Agent / Workflow Config (never commit) ───────────────
+.github/
+.claude/
+AGENTS.md
+GEMINI.md
+MEMORY.md
+REVIEW-CHECKLIST.md
+CHANGELOG.md
+CITATION.cff
+agent_docs/
+templates/
+part1-deepresearch.md
+part2-prd-mvp.md
+part3-tech-design-mvp.md
+part4-notes-for-agent.md
+docs/claude-agent-teams.md
+docs/cursor-cloud-agents.md
+docs/freshness-policy.md
+docs/golden-path-checklist.md
+vibe-coding-prompt-template-main/
+
 # ─── Node / JS ──────────────────────────────────────────────
+
 node_modules/
 dist/
 .cache/

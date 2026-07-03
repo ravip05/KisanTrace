@@ -234,8 +234,6 @@ kisan-trace/
 ├── scripts/
 │   └── take-screenshots.mjs         # Playwright screenshot automation
 │
-├── AGENTS.md                        # AI agent configuration & protected areas
-├── MEMORY.md                        # Agent session memory & architectural decisions
 ├── PRD-KisanTrace-MVP.md            # Product Requirements Document
 ├── TechDesign-KisanTrace-MVP.md     # Technical Design Document
 └── .gitignore
@@ -537,7 +535,12 @@ After training completes, copy `.tflite` output to `client/public/models/` and r
 
 ## 🤝 Contributing
 
-Please read **[AGENTS.md](AGENTS.md)** before contributing — it documents protected areas (AI models, inference loop, service worker) and coding conventions.
+Please review the coding conventions below before opening a PR:
+
+- TypeScript strict mode — no `any`
+- All UI writes go to RxDB first; sync is always background
+- Mobile-first, sunlight-readable contrast (WCAG AA minimum)
+- Do not modify files in `client/src/ai/` without discussion (core inference loop)
 
 ```bash
 # Run linting before opening a PR
