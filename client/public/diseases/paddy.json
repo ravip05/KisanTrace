@@ -1,0 +1,137 @@
+[
+  {
+    "classIndex": 0,
+    "scientificName": "Magnaporthe oryzae",
+    "nameEn": "Blast",
+    "nameHi": "ब्लास्ट रोग",
+    "severity": "high",
+    "description": "Rice blast is caused by the fungus Magnaporthe oryzae. It is one of the most destructive diseases of rice worldwide. Lesions appear as spindle-shaped spots with grey or white centers and brown borders on leaves, nodes, and panicles.",
+    "symptoms": [
+      "Diamond-shaped lesions with grey centers on leaves",
+      "Brown to reddish-brown borders around lesions",
+      "Lesions on neck and panicle causing 'neck rot'",
+      "White or empty grains in severe cases"
+    ],
+    "treatment": [
+      "Spray Tricyclazole 75 WP @ 0.6 g/L water",
+      "Apply Isoprothiolane 40 EC @ 1.5 mL/L water",
+      "Avoid excess nitrogen fertilizer",
+      "Maintain proper field drainage"
+    ],
+    "treatmentHi": [
+      "ट्राइसाइक्लाज़ोल 75 WP @ 0.6 ग्राम/लीटर पानी का छिड़काव करें",
+      "आइसोप्रोथिओलेन 40 EC @ 1.5 मि.ली./लीटर पानी का प्रयोग करें",
+      "अत्यधिक नाइट्रोजन उर्वरक से बचें",
+      "उचित खेत जल निकासी बनाए रखें"
+    ],
+    "preventionTip": "Use blast-resistant varieties like IR 64, Swarna, or Pusa 44."
+  },
+  {
+    "classIndex": 1,
+    "scientificName": "Xanthomonas oryzae pv. oryzae",
+    "nameEn": "Bacterial Blight",
+    "nameHi": "जीवाणु झुलसा",
+    "severity": "high",
+    "description": "Bacterial leaf blight is caused by the bacterium Xanthomonas oryzae. It is a major disease in tropical and subtropical rice-growing regions, especially during warm, humid weather with heavy rains.",
+    "symptoms": [
+      "Water-soaked to yellowish stripes on leaf margins",
+      "Lesions turn yellow to white, then grey",
+      "Wilting and drying of seedlings (kresek phase)",
+      "Bacterial ooze visible on cut leaf margin"
+    ],
+    "treatment": [
+      "Spray Copper Oxychloride 50 WP @ 3 g/L water",
+      "Apply Streptomycin Sulphate + Tetracycline @ 0.5 g/L",
+      "Remove and destroy infected plant material",
+      "Avoid flood irrigation that spreads the bacteria"
+    ],
+    "treatmentHi": [
+      "कॉपर ऑक्सीक्लोराइड 50 WP @ 3 ग्राम/लीटर पानी का छिड़काव करें",
+      "स्ट्रेप्टोमाइसिन सल्फेट + टेट्रासाइक्लिन @ 0.5 ग्राम/लीटर लगाएं",
+      "संक्रमित पौधों को हटाएं और नष्ट करें",
+      "बाढ़ सिंचाई से बचें जो बैक्टीरिया फैलाती है"
+    ],
+    "preventionTip": "Use certified disease-free seeds and resistant varieties like Pusa Basmati 1509."
+  },
+  {
+    "classIndex": 2,
+    "scientificName": "Rice tungro virus (RTSV + RTBV)",
+    "nameEn": "Tungro",
+    "nameHi": "टुंग्रो रोग",
+    "severity": "moderate",
+    "description": "Rice tungro disease is caused by a complex of two viruses (RTSV and RTBV) transmitted by the green leafhopper. It is prevalent in South and Southeast Asia.",
+    "symptoms": [
+      "Yellow-orange discoloration starting from leaf tip",
+      "Stunted plant growth",
+      "Reduced tillering",
+      "Partial sterility of panicles"
+    ],
+    "treatment": [
+      "Control green leafhopper vector with Imidacloprid 17.8 SL @ 0.3 mL/L",
+      "Uproot and destroy infected plants",
+      "Avoid ratoon cropping in infected fields",
+      "Apply carbofuran 3G granules in nursery"
+    ],
+    "treatmentHi": [
+      "इमिडाक्लोप्रिड 17.8 SL @ 0.3 मि.ली./लीटर से हरे फुदके को नियंत्रित करें",
+      "संक्रमित पौधों को उखाड़ें और नष्ट करें",
+      "संक्रमित खेतों में रैटून खेती से बचें",
+      "नर्सरी में कार्बोफ्युरान 3G दाने डालें"
+    ],
+    "preventionTip": "Synchronize planting dates with neighbors to break the disease cycle."
+  },
+  {
+    "classIndex": 3,
+    "scientificName": "Rhizoctonia solani",
+    "nameEn": "Sheath Blight",
+    "nameHi": "शीथ ब्लाइट",
+    "severity": "moderate",
+    "description": "Sheath blight, caused by Rhizoctonia solani, is a major soil-borne fungal disease of rice. It thrives under high humidity, warm temperatures, and dense plant populations.",
+    "symptoms": [
+      "Oval or irregular lesions on leaf sheaths near waterline",
+      "Lesions with white or grey centers and brown borders",
+      "Lesions extend to leaves and upper plant parts",
+      "Lodging of heavily infected plants"
+    ],
+    "treatment": [
+      "Spray Hexaconazole 5 EC @ 2 mL/L water",
+      "Apply Validamycin 3 L @ 2 mL/L water",
+      "Reduce plant density by wider spacing",
+      "Avoid excessive nitrogen application"
+    ],
+    "treatmentHi": [
+      "हेक्साकोनाज़ोल 5 EC @ 2 मि.ली./लीटर पानी का छिड़काव करें",
+      "वेलिडामाइसिन 3L @ 2 मि.ली./लीटर पानी लगाएं",
+      "चौड़े अंतर से रोपाई करके पौध घनत्व कम करें",
+      "अत्यधिक नाइट्रोजन प्रयोग से बचें"
+    ],
+    "preventionTip": "Collect and destroy sclerotia floating in irrigation water using a fine mesh net."
+  },
+  {
+    "classIndex": 4,
+    "scientificName": "Helminthosporium oryzae",
+    "nameEn": "Brown Spot",
+    "nameHi": "भूरा धब्बा",
+    "severity": "low",
+    "description": "Brown spot disease is caused by the fungus Helminthosporium oryzae. It is often associated with nutrient-deficient soils, particularly potassium and silicon deficiency.",
+    "symptoms": [
+      "Circular to oval brown spots on leaves",
+      "Spots with a yellow halo around brown centers",
+      "Discoloration on leaf sheaths and grains",
+      "Premature drying of severely affected leaves"
+    ],
+    "treatment": [
+      "Spray Mancozeb 75 WP @ 2 g/L water",
+      "Apply Iprobenfos (IBP) 48 EC @ 1.5 mL/L water",
+      "Apply potassium fertilizer to correct deficiency",
+      "Seed treatment with Thiram @ 3 g/kg seed"
+    ],
+    "treatmentHi": [
+      "मैनकोजेब 75 WP @ 2 ग्राम/लीटर पानी का छिड़काव करें",
+      "आईप्रोबेनफोस (IBP) 48 EC @ 1.5 मि.ली./लीटर पानी लगाएं",
+      "कमी को ठीक करने के लिए पोटेशियम उर्वरक लगाएं",
+      "थाइरम @ 3 ग्राम/किलो बीज से बीज उपचार करें"
+    ],
+    "preventionTip": "Apply silicon-rich amendments (rice husk ash or slag) to improve plant resistance."
+  }
+]

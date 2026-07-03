@@ -1,0 +1,110 @@
+[
+  {
+    "classIndex": 0,
+    "scientificName": "Phytophthora infestans",
+    "nameEn": "Late Blight",
+    "nameHi": "पछेती झुलसा",
+    "severity": "high",
+    "description": "Late blight is a highly destructive disease caused by the oomycete Phytophthora infestans. It thrives in cool, moist conditions and can rapidly destroy entire tomato fields if left unchecked.",
+    "symptoms": [
+      "Irregular, water-soaked, dark spots on leaves",
+      "Spots expand rapidly, turning brown or black",
+      "White fungal growth on the underside of leaves in humid weather",
+      "Dark, greasy lesions on stems and firm, dark brown patches on fruit"
+    ],
+    "treatment": [
+      "Spray Mancozeb 75 WP @ 2.5 g/L water or Chlorothalonil 75 WP @ 2 g/L",
+      "If severe, use systemic fungicides like Metalaxyl 8% + Mancozeb 64% WP @ 2.5 g/L",
+      "Destroy infected crop debris immediately",
+      "Avoid overhead irrigation"
+    ],
+    "treatmentHi": [
+      "मैनकोजेब 75 WP @ 2.5 ग्राम/लीटर या क्लोरोथेलोनिल 75 WP @ 2 ग्राम/लीटर का छिड़काव करें",
+      "गंभीर होने पर सिस्टमिक फफूंदनाशक जैसे मेटलैक्सिल 8% + मैनकोजेब 64% WP @ 2.5 ग्राम/लीटर का प्रयोग करें",
+      "संक्रमित फसल के अवशेषों को तुरंत नष्ट करें",
+      "फव्वारा सिंचाई से बचें"
+    ],
+    "preventionTip": "Plant resistant varieties and maintain wide spacing for good air circulation."
+  },
+  {
+    "classIndex": 1,
+    "scientificName": "Alternaria solani",
+    "nameEn": "Early Blight",
+    "nameHi": "अगेती झुलसा",
+    "severity": "moderate",
+    "description": "Early blight is a fungal disease that primarily affects older leaves, causing them to yellow and drop prematurely. It thrives in warm, humid weather and often occurs when plants are under stress.",
+    "symptoms": [
+      "Brown to black spots on older (lower) leaves",
+      "Spots develop concentric rings (target-board appearance)",
+      "Yellow halo around the spots",
+      "Dark, sunken lesions with concentric rings on the stem end of fruits"
+    ],
+    "treatment": [
+      "Spray Copper Oxychloride 50 WP @ 2.5 g/L water",
+      "Alternatively, use Azoxystrobin 23 SC @ 1 mL/L water",
+      "Remove infected lower leaves to slow the spread",
+      "Ensure proper fertilization to reduce plant stress"
+    ],
+    "treatmentHi": [
+      "कॉपर ऑक्सीक्लोराइड 50 WP @ 2.5 ग्राम/लीटर पानी का छिड़काव करें",
+      "वैकल्पिक रूप से, एज़ोक्सिस्ट्रोबिन 23 SC @ 1 मि.ली./लीटर पानी का उपयोग करें",
+      "फैलने से रोकने के लिए निचली संक्रमित पत्तियों को हटा दें",
+      "पौधों के तनाव को कम करने के लिए उचित उर्वरक सुनिश्चित करें"
+    ],
+    "preventionTip": "Practice crop rotation with non-solanaceous crops (avoid potato, eggplant)."
+  },
+  {
+    "classIndex": 2,
+    "scientificName": "Tomato leaf curl New Delhi virus (ToLCNDV)",
+    "nameEn": "Leaf Curl Virus",
+    "nameHi": "पत्ती मरोड़ रोग (लीफ कर्ल)",
+    "severity": "high",
+    "description": "Tomato leaf curl disease is caused by a begomovirus transmitted by whiteflies. It severely affects plant growth and fruit yield, especially in tropical and subtropical regions.",
+    "symptoms": [
+      "Upward curling and crinkling of leaves",
+      "Stunted plant growth and shortened internodes",
+      "Yellowing (chlorosis) of leaf margins",
+      "Fruit set is drastically reduced or absent"
+    ],
+    "treatment": [
+      "The virus cannot be cured; vector control is essential",
+      "Spray Imidacloprid 17.8 SL @ 0.5 mL/L or Thiamethoxam 25 WG @ 0.5 g/L to control whiteflies",
+      "Uproot and burn infected plants immediately",
+      "Use yellow sticky traps to monitor and trap whiteflies"
+    ],
+    "treatmentHi": [
+      "वायरस का इलाज नहीं किया जा सकता; रोग-वाहक (सफेद मक्खी) नियंत्रण आवश्यक है",
+      "सफेद मक्खी नियंत्रण के लिए इमिडाक्लोप्रिड 17.8 SL @ 0.5 मि.ली./लीटर या थियामेथोक्साम 25 WG @ 0.5 ग्राम/लीटर का छिड़काव करें",
+      "संक्रमित पौधों को तुरंत उखाड़ कर जला दें",
+      "सफेद मक्खियों की निगरानी के लिए पीले चिपचिपे जाल का प्रयोग करें"
+    ],
+    "preventionTip": "Use 50-mesh nylon nets in nurseries to protect seedlings from whiteflies."
+  },
+  {
+    "classIndex": 3,
+    "scientificName": "Tetranychus urticae",
+    "nameEn": "Spider Mite Damage",
+    "nameHi": "मकड़ी का जाला (माइट्स)",
+    "severity": "moderate",
+    "description": "Spider mites are tiny pests that suck sap from the undersides of tomato leaves. They multiply rapidly in hot, dry conditions, causing leaves to dry up and fall off.",
+    "symptoms": [
+      "Tiny pale yellow or white speckles on leaves",
+      "Fine silk webbing on the underside of leaves or between stems",
+      "Leaves turn bronze or greyish-yellow and dry up",
+      "Stunted growth and poor fruit quality"
+    ],
+    "treatment": [
+      "Spray Spiromesifen 22.9 SC @ 1 mL/L water",
+      "Alternatively, use Abamectin 1.9 EC @ 1 mL/L water",
+      "Apply Neem oil (10,000 ppm) @ 2 mL/L as an organic alternative",
+      "Ensure thorough coverage on the underside of leaves"
+    ],
+    "treatmentHi": [
+      "स्पाइरोमेसिफेन 22.9 SC @ 1 मि.ली./लीटर पानी का छिड़काव करें",
+      "वैकल्पिक रूप से, एबामेक्टिन 1.9 EC @ 1 मि.ली./लीटर पानी का उपयोग करें",
+      "जैविक विकल्प के रूप में नीम का तेल (10,000 पीपीएम) @ 2 मि.ली./लीटर लगाएं",
+      "पत्तियों के निचले हिस्से पर अच्छी तरह से छिड़काव सुनिश्चित करें"
+    ],
+    "preventionTip": "Maintain adequate soil moisture and wash plants with a strong stream of water early in the infestation."
+  }
+]

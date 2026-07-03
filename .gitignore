@@ -1,0 +1,65 @@
+# ─── Node / JS ──────────────────────────────────────────────
+node_modules/
+dist/
+.cache/
+.parcel-cache/
+.turbo/
+.next/
+out/
+
+# ─── Vite / Build artifacts ─────────────────────────────────
+client/dist/
+client/.vite/
+
+# ─── Logs ───────────────────────────────────────────────────
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ─── Environment secrets ─────────────────────────────────────
+.env
+.env.local
+.env.*.local
+
+# ─── TypeScript build output ─────────────────────────────────
+*.tsbuildinfo
+
+# ─── Python / ML Pipeline ────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+ml-pipeline/__pycache__/
+ml-pipeline/*.egg-info/
+ml-pipeline/.venv/
+ml-pipeline/venv/
+ml-pipeline/output/         # trained checkpoints & exported models (large binary files)
+ml-pipeline/data/           # training datasets (too large for git)
+
+# ─── ML Model binaries (generated, not source) ───────────────
+client/public/models/*.tflite
+client/public/models/*.onnx
+client/public/models/*.h5
+client/public/models/*.pth
+
+# ─── WASM runtime (copied from node_modules at install) ──────
+# These are already served correctly via node_modules & vite
+# Uncomment if you want to commit the wasm binaries for offline dev:
+# client/public/wasm/
+
+# ─── OS / Editor ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ─── Coverage & Test artifacts ───────────────────────────────
+coverage/
+.nyc_output/
+playwright-report/
+test-results/

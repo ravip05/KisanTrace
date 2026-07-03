@@ -1,0 +1,110 @@
+[
+  {
+    "classIndex": 0,
+    "scientificName": "Cercospora arachidicola / Cercosporidium personatum",
+    "nameEn": "Tikka Disease (Leaf Spot)",
+    "nameHi": "टिक्का रोग (पत्ती धब्बा)",
+    "severity": "high",
+    "description": "Tikka disease, also known as early and late leaf spot, is the most common and destructive fungal disease of groundnut. It causes severe defoliation, leading to poor pod development and significant yield loss.",
+    "symptoms": [
+      "Dark brown to black spots appearing on older leaves",
+      "Spots may have a yellow halo (especially early leaf spot)",
+      "Spots coalesce and cause the leaf to turn yellow",
+      "Severe premature leaf drop (defoliation)"
+    ],
+    "treatment": [
+      "Spray Chlorothalonil 75 WP @ 2 g/L water or Mancozeb 75 WP @ 2.5 g/L",
+      "For severe infections, use Tebuconazole 25.9 EC @ 1 mL/L water",
+      "Start spraying at 30-35 days after sowing and repeat after 15 days if needed",
+      "Remove and burn infected crop residues"
+    ],
+    "treatmentHi": [
+      "क्लोरोथेलोनिल 75 WP @ 2 ग्राम/लीटर या मैनकोजेब 75 WP @ 2.5 ग्राम/लीटर का छिड़काव करें",
+      "गंभीर संक्रमण के लिए टेबुकोनाज़ोल 25.9 EC @ 1 मि.ली./लीटर का उपयोग करें",
+      "बुवाई के 30-35 दिन बाद छिड़काव शुरू करें और आवश्यकता पड़ने पर 15 दिन बाद दोहराएं",
+      "संक्रमित फसल अवशेषों को हटाकर जला दें"
+    ],
+    "preventionTip": "Follow crop rotation with non-leguminous crops and use tolerant varieties like ICGS 44."
+  },
+  {
+    "classIndex": 1,
+    "scientificName": "Puccinia arachidis",
+    "nameEn": "Rust",
+    "nameHi": "रस्ट (गेरुआ रोग)",
+    "severity": "high",
+    "description": "Groundnut rust is a fungal disease that often occurs simultaneously with late leaf spot (Tikka). Unlike leaf spot, rusted leaves remain attached to the plant but dry up and die, drastically reducing yield.",
+    "symptoms": [
+      "Orange to dark reddish-brown pustules (blisters) on the underside of leaves",
+      "Corresponding yellow spots on the upper surface",
+      "Leaves become necrotic and dry up but do not drop immediately",
+      "Pods are smaller and seeds are shriveled"
+    ],
+    "treatment": [
+      "Spray Hexaconazole 5 EC @ 2 mL/L water or Propiconazole 25 EC @ 1 mL/L",
+      "Alternatively, use Tridemorph 80% EC @ 1 mL/L",
+      "Ensure thorough coverage of the lower leaf surfaces",
+      "Destroy volunteer groundnut plants between seasons"
+    ],
+    "treatmentHi": [
+      "हेक्साकोनाज़ोल 5 EC @ 2 मि.ली./लीटर या प्रोपिकोनाज़ोल 25 EC @ 1 मि.ली./लीटर का छिड़काव करें",
+      "वैकल्पिक रूप से, ट्राइडेमॉर्फ 80% EC @ 1 मि.ली./लीटर का उपयोग करें",
+      "पत्तियों की निचली सतहों पर अच्छी तरह से छिड़काव सुनिश्चित करें",
+      "मौसम के बीच उगे हुए मूंगफली के पौधों को नष्ट करें"
+    ],
+    "preventionTip": "Sow the crop early in the season to escape peak rust infection periods."
+  },
+  {
+    "classIndex": 2,
+    "scientificName": "Aspergillus niger",
+    "nameEn": "Collar Rot",
+    "nameHi": "कॉलर रॉट (तने की सड़न)",
+    "severity": "high",
+    "description": "Collar rot is a soil-borne and seed-borne fungal disease that primarily affects seedlings, causing high plant mortality in the early stages of crop growth.",
+    "symptoms": [
+      "Sudden wilting and drying of the entire seedling",
+      "Rotting of the stem at the soil line (collar region)",
+      "Black, powdery fungal mass covers the rotted collar region",
+      "Affected plants easily pull out of the soil"
+    ],
+    "treatment": [
+      "Once established, there is no effective chemical cure for affected plants",
+      "Drench surrounding soil with Carbendazim 50 WP @ 1 g/L water to protect healthy plants",
+      "Uproot and destroy infected plants immediately",
+      "Improve soil drainage"
+    ],
+    "treatmentHi": [
+      "एक बार स्थापित होने के बाद, प्रभावित पौधों के लिए कोई प्रभावी रासायनिक उपचार नहीं है",
+      "स्वस्थ पौधों को बचाने के लिए आस-पास की मिट्टी में कार्बेन्डाजिम 50 WP @ 1 ग्राम/लीटर का घोल डालें",
+      "संक्रमित पौधों को तुरंत उखाड़ कर नष्ट करें",
+      "मिट्टी की जल निकासी में सुधार करें"
+    ],
+    "preventionTip": "Seed treatment is crucial. Treat seeds with Trichoderma viride @ 4 g/kg seed or Thiram @ 3 g/kg before sowing."
+  },
+  {
+    "classIndex": 3,
+    "scientificName": "Bud necrosis virus (GBNV)",
+    "nameEn": "Peanut Bud Necrosis",
+    "nameHi": "बड नेक्रोसिस",
+    "severity": "moderate",
+    "description": "Bud necrosis is a viral disease transmitted by thrips. It causes stunting, bud death, and significant yield losses if infection occurs early in the season.",
+    "symptoms": [
+      "Terminal buds become brown and die (necrosis)",
+      "Chlorotic (yellow) ringspots on younger leaves",
+      "Stunted plant growth with bushy appearance",
+      "Deformed, small, and mottled seeds"
+    ],
+    "treatment": [
+      "There is no cure for the virus; control the thrips vector",
+      "Spray Dimethoate 30 EC @ 2 mL/L or Imidacloprid 17.8 SL @ 0.3 mL/L",
+      "Uproot and destroy infected plants early in the season",
+      "Keep the field weed-free, as weeds host both the virus and thrips"
+    ],
+    "treatmentHi": [
+      "वायरस का कोई इलाज नहीं है; थ्रिप्स (रोग-वाहक) को नियंत्रित करें",
+      "डाइमेथोएट 30 EC @ 2 मि.ली./लीटर या इमिडाक्लोप्रिड 17.8 SL @ 0.3 मि.ली./लीटर का छिड़काव करें",
+      "मौसम की शुरुआत में ही संक्रमित पौधों को उखाड़ कर नष्ट करें",
+      "खेत को खरपतवार मुक्त रखें, क्योंकि खरपतवार वायरस और थ्रिप्स दोनों को आश्रय देते हैं"
+    ],
+    "preventionTip": "Maintain optimum plant population (dense spacing) and intercrop with pearl millet or sorghum to reduce thrips movement."
+  }
+]

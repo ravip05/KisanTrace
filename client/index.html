@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="hi">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- PWA Core -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/icon-192x192.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+
+    <!-- Viewport: Mobile-first, prevents auto-zoom on form inputs -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#2D5016" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Kisan-Trace" />
+
+    <!-- SEO & Discoverability -->
+    <title>Kisan-Trace — Offline Crop Disease Diagnosis</title>
+    <meta name="description" content="Agronomist-level AI diagnosis for crop diseases, fully offline. Built for Indian farmers with no internet." />
+    <meta name="keywords" content="crop disease, paddy, tomato, groundnut, offline AI, kisan, farmer, india" />
+    <meta name="author" content="Kisan-Trace" />
+
+    <!-- WASM performance: preload the model and WASM binary -->
+    <!-- Note: actual paths depend on model filenames set during training -->
+    <!-- <link rel="preload" href="/models/model_v1_int8.tflite" as="fetch" crossorigin="anonymous" /> -->
+
+    <!-- Prevent flash of unstyled content -->
+    <style>
+      body {
+        margin: 0;
+        background-color: #FAF7F2;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      }
+      #root {
+        min-height: 100vh;
+        min-height: 100dvh; /* dynamic viewport height for mobile browsers */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
